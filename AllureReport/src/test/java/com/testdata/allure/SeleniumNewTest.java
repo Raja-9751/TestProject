@@ -26,7 +26,7 @@ public class SeleniumNewTest {
 		driver.get("https://demo.nopcommerce.com/");
 		driver.manage().window().maximize();
 		
-		
+
 	}
 	
 	@Test(priority = 1)
